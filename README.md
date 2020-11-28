@@ -6,4 +6,4 @@
 
 ## Contents:
 
- - Tempurature and Humidity Logging with AM2302 and RasPi
+ - Temperature and Humidity Logging with AM2302 and RasPi
